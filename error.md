@@ -1,5 +1,4 @@
-[scripts/clip_finetune_noise_nolabel.py]
-line144
+[line 144](scripts/clip_finetune_noise_nolabel.py)
 
 ```python
 
